@@ -8,5 +8,9 @@ public class TC001 {
 
         //testing another thing
 
+        // negative cases
+
+        //positive cases
+
     }
 }
